@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Manav Mittal, Sidhant Yadav, Shubham Hazra",
+  "author": "Tech Titans,
   "license": "ISC",
   "dependencies": {
     "aadhaar-validator": "^1.1.0",
