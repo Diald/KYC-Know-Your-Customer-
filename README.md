@@ -53,18 +53,4 @@
         <li>Once the form is submitted, the provided details will be verified using APIs and stored in the MongoDB database.</li>
     </ul>
 
-<h2>Contributors</h2>
-    <ul>
-        <li>Tech Titans</li>
-        <li>Contributors 
-            <ul>
-                <li>Divya Gambhir</li>
-                <li>Siddharth Sharma</li>
-            <li>Aryan Chaudhary</li>
-            <li>Manasvi Das</li>
-            <li>Arnav Thankur</li>
-            <li>Divya Sai Aamuktha Pelluri</li>
-            </ul>
-        </li>
-    </ul>
-            
+
