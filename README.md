@@ -9,6 +9,7 @@
         <li>EJS</li>
         <li>MongoDB</li>
         <li>REST API's</li>
+    <li>Open CV</li>
     </ul>
 
 <h2>Features</h2>
