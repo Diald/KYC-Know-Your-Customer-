@@ -18,9 +18,9 @@ const axios = require('axios');
 const cloudinary = require('cloudinary').v2; // Import cloudinary
 
 cloudinary.config({
-    cloud_name: 'dd6l7nvl2',
-    api_key: '117239233527846',
-    api_secret: 'NrqCSwiS_7RXepxynKk4dMHjSo8',
+    cloud_name: CLOUD_NAME,
+    api_key: API_KEY,
+    api_secret: API_SECRET,
 });
 
 const storage = multer.diskStorage({
